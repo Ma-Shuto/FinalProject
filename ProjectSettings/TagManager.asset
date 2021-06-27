@@ -7,6 +7,8 @@ TagManager:
   - Ojisan_Tate
   - Ojisan_Yoko
   - Tenohira
+  - GameOverLine
+  - Buttons
   layers:
   - Default
   - TransparentFX
